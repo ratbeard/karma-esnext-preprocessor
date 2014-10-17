@@ -31,7 +31,7 @@ module.exports = function(config) {
 
     esnextPreprocessor: {
       options: {
-        defaultOnly: true
+        arrayComprehensions: false
       }
     }
   });

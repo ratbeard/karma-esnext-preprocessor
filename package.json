@@ -1,0 +1,31 @@
+{
+  "name": "karma-esnext-preprocessor",
+  "version": "0.0.0",
+  "description": "Preprocessor to compile ES6 using esnext",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Attamusc/karma-esnext-preprocessor.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor",
+    "es6",
+    "esnext"
+  ],
+  "peerDependencies": {
+    "karma": "^0.12"
+  },
+  "dependencies": {
+    "esnext": "^0.11.1"
+  },
+  "author": "Sean Dunn <sean@attamusc.com> (http://www.dunns.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Attamusc/karma-esnext-preprocessor/issues"
+  },
+  "homepage": "https://github.com/Attamusc/karma-esnext-preprocessor"
+}
