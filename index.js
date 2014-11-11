@@ -8,7 +8,7 @@ var createEsnextPreprocessor = function(args, config, logger, helper) {
 
   return function(content, file, done) {
     log.debug('Processing "%s"', file.originalPath);
-    return done(null, esnext.compile(content, options));
+    return done(null, esnext.compile(content, options).code);
   };
 };
 
