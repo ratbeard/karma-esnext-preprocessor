@@ -1,6 +1,6 @@
 {
   "name": "karma-esnext-preprocessor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Preprocessor to compile ES6 using esnext",
   "main": "index.js",
   "scripts": {
