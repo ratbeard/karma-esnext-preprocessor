@@ -20,7 +20,7 @@
     "karma": "^0.12"
   },
   "dependencies": {
-    "esnext": "^0.11.1"
+    "esnext": "^0.13.0"
   },
   "author": "Sean Dunn <sean@attamusc.com> (http://www.dunns.me/)",
   "license": "MIT",
